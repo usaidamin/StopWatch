@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #0F2027;
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+
+}
+.heading{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgoldenrodyellow;
+    padding: 40px;
+}
+
+.display {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.stopwatch {
+    margin: 0;
+    padding: 0;
+}
+.min {
+    background-color: #87ceeb;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+.sec {
+    background-color: #87ceeb;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+.msec {
+    background-color: #87ceeb;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+.btn1 {
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.btn2 {
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.btn3 {
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+}
